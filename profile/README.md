@@ -10,6 +10,7 @@ Welcome to the InternLM organization. InternLM is mainly developed by Shanghai A
 ## Models
 
 - [InternLM](https://github.com/InternLM/InternLM): a series of multi-lingual foundation models and chat models.
+- [InternLM-Math](https://github.com/InternLM/InternLM-Math): state-of-the-art bilingual math reasoning LLMs.
 - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer): a vision-language large model (VLLM) based on InternLM for advanced text-image comprehension and composition.
 
 ## Toolchain
