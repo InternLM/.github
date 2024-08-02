@@ -25,3 +25,4 @@ Welcome to the InternLM organization. InternLM is mainly developed by Shanghai A
 
 ## Applications
 - [HuixiangDou](https://github.com/InternLM/HuixiangDou): a domain-specific assistant based on LLMs which can deal with complex techinical questions in group chats.
+- [MindSearch](https://github.com/InternLM/MindSearch): an LLM-based multi-agent framework of web search engine.
